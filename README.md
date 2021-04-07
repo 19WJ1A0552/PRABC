@@ -17,7 +17,7 @@ The idea is to estimate the chance of developing Breast Cancer. Providing advanc
 
 What things you need to install the software and how to install them
 
-```yaml
+```bash
 pip install virtualenv
 
 virtualenv flask-app-venv 
@@ -37,8 +37,8 @@ pip install numpy
 ```
 
 
-# Running
-```toml
+# Run
+```python
 python app.py
 ```
 
