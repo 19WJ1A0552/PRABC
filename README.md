@@ -1,17 +1,19 @@
 Code Innovation Series - Gurunanak Institute Of Technology 2021
 
-Breast cancer is the most common cancer in women. About 90% of breast cancer patients live for at least 5 years after the cancer is diagnosed. When the breast cancer is detected early, the chance of survival is much higher. Beginning at the age of 40, breast cancer screening every one or two years is one of the most recommended preventive solutions for women. However, there are a large population of women that does not have access to such services despite having a high chance of developing breast cancer. Risk scoring for breast cancer that can identify individuals with high risk of developing chronic condition might be a good way to encourage individuals to seek professional help on time. The tool is easy and cost-effective to use. 
+<img src="PRABC/src/static/images/pink_ribbob.png" alt="My cool logo"/>
 
+Breast cancer is the most common form of cancer in women, accounting for 14% of all cancers in Indian women. About 90% of breast cancer patients live for at least 5 years after the cancer is diagnosed. When the breast cancer is detected early, the chance of survival is much higher. So, we are developing a tool for Calculating the Risk of Attaining Breast Cancer. The tool is supposedly going to help women understand their Risk of Attaining Breast Cancer and leading to understanding the special need of care.
 
+Tech Stack:
+HTML, CSS, Python, Flask, D3.js, Excel, Java & Kotlin
 What it does
 
-Pink Ribbon is a tool for calculating the chance of developing breast cancer. Using this tool, a user can enter some information including age, weight, height, history of breast cancer in 1st degree relative, age of a user at the first birth or nulliparity, menopausal status, history of previous breast biopsy, and history of using hormone replacement therapy. Then, the app will return the chance of developing breast cancer. Upon returning the result, the tool also provides additional insights about breast cancer from the dataset.
+What positive and unique solutions your idea have?
+The idea is to estimate the chance of developing Breast Cancer. Providing advanced Data Insights. This helps women to understand the need for care. This comes with supposed Informatic Applications as a presentation for Mobile Phone's and Windows & MacOS Operating Systems in order for helping out in understanding the need for prior care. We used data from BRCA. After data wrangling and applied Machine Learning steps, a arbitrary forest model was trained as a classifier. The precision and recall were used for fine tuning and performance evaluation. We set our goals beyond this working on several daily life changes for Breast Cancer Potential Women. We will be working on highly prolific data image queries along the way. I know it's a time talking process but I am sure we will do it. If not now then tomorrow & if not tomorrow a day later & if not then maybe someday but the day will come when we will reach an absolute creation of a tool. Which won't just help in trying to understand the virus's or calculating the chances of attaining but also, help the doctors in advanced data imaging and human analysis. We have a dream a dream where we want to see nobody will die of carcinoma. 
 
 <p align = "center">
 </p>
 
-
-The data is obtained from Breast Cancer Surveillance Consortium (BCSC) website. After data wrangling and feature engineering steps, a random forest model was trained as a classifier. The precision and recall were used for fine tuning and performance evaluation.  Python, Flask, D3.js, and HTML are deployed for creating the app.
 
 ### Running
 
