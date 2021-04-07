@@ -1,6 +1,6 @@
 Code Innovation Series - Gurunanak Institute Of Technology 2021
 
-<img src="PRABC/src/static/images/pink_ribbob.png" alt="My cool logo"/>
+<img src="https://github.com/pavanleo/PRABC/blob/master/src/static/images/pink_ribbob.png" width="128" height="128"/>
 
 Breast cancer is the most common form of cancer in women, accounting for 14% of all cancers in Indian women. About 90% of breast cancer patients live for at least 5 years after the cancer is diagnosed. When the breast cancer is detected early, the chance of survival is much higher. So, we are developing a tool for Calculating the Risk of Attaining Breast Cancer. The tool is supposedly going to help women understand their Risk of Attaining Breast Cancer and leading to understanding the special need of care.
 
